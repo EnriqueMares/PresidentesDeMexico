@@ -1,0 +1,11 @@
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\bin\Debug\PresidentesDeMexico.exe.config
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\bin\Debug\PresidentesDeMexico.exe
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\bin\Debug\PresidentesDeMexico.pdb
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.csproj.AssemblyReference.cache
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.Form1.resources
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.Properties.Resources.resources
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.csproj.GenerateResource.cache
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.csproj.CoreCompileInputs.cache
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.exe
+C:\Users\Luis Mares\Downloads\PresidentesDeMexico\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.pdb

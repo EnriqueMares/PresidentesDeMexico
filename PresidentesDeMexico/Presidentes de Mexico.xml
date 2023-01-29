@@ -1,0 +1,1483 @@
+<?xml version="1.0"?>
+<ArrayOfGobernante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Gobernante>
+    <Inicio>1233</Inicio>
+    <Fin>1272</Fin>
+    <Nombre>Tozcuecuextli</Nombre>
+    <Significado>No se sabe</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1272</Inicio>
+    <Fin>1299</Fin>
+    <Nombre>Huehue Huitzilihuitl</Nombre>
+    <Significado>No se sabe</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1299</Inicio>
+    <Fin>1347</Fin>
+    <Nombre>Ilancueitl </Nombre>
+    <Significado>Legendario</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1325</Inicio>
+    <Fin>1376</Fin>
+    <Nombre>Tenoch  </Nombre>
+    <Significado>Tuna de piedra</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1376</Inicio>
+    <Fin>1395</Fin>
+    <Nombre>Acamapichtili </Nombre>
+    <Significado>El que empuña la caña</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1395</Inicio>
+    <Fin>1417</Fin>
+    <Nombre>Huitzilíhuitl </Nombre>
+    <Significado>Pluma de colibri</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1417</Inicio>
+    <Fin>1427</Fin>
+    <Nombre>Chimalpopoca </Nombre>
+    <Significado>Escudo que humea</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1427</Inicio>
+    <Fin>1440</Fin>
+    <Nombre>Itzcóatl</Nombre>
+    <Significado>Serpiente de pedernal</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1440</Inicio>
+    <Fin>1469</Fin>
+    <Nombre>Moctezuma Ilhuicamina </Nombre>
+    <Significado>El Flechador del cielo</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1469</Inicio>
+    <Fin>1481</Fin>
+    <Nombre>Axayácatl </Nombre>
+    <Significado>Cara de agua</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1481</Inicio>
+    <Fin>1486</Fin>
+    <Nombre>Tizoc Chālchiuhtlatona</Nombre>
+    <Significado>Pierna enferma</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1486</Inicio>
+    <Fin>1502</Fin>
+    <Nombre>Ahuízotl  </Nombre>
+    <Significado>Perro de agua</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1502</Inicio>
+    <Fin>1520</Fin>
+    <Nombre>Moctezuma Xocoyotzin </Nombre>
+    <Significado>Señor joven y respetable</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>México Prehispanico</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1520</Inicio>
+    <Fin>1521</Fin>
+    <Nombre>Cuitláhuac </Nombre>
+    <Significado>Excremento seco</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>Conquista de México</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1521</Inicio>
+    <Fin>1521</Fin>
+    <Nombre>Cuauhtémoc </Nombre>
+    <Significado>Aguila que cae</Significado>
+    <Titulo>Emperador Azteca</Titulo>
+    <PeriodoHistorico>Conquista de México</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1521</Inicio>
+    <Fin>1556</Fin>
+    <Nombre>Carlos I</Nombre>
+    <Significado>Carlos V de Alemania</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1521</Inicio>
+    <Fin>1524</Fin>
+    <Nombre>Hernan Cortez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1524</Inicio>
+    <Fin>1527</Fin>
+    <Nombre>Alonso de Estrada</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1524</Inicio>
+    <Fin>1527</Fin>
+    <Nombre>Luis Ponce de Leon</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1524</Inicio>
+    <Fin>1527</Fin>
+    <Nombre>Marcos de Aguilar</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1527</Inicio>
+    <Fin>1535</Fin>
+    <Nombre>Nuno Beltran de Guzman</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1527</Inicio>
+    <Fin>1535</Fin>
+    <Nombre>Gonzalo de Salazar</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1527</Inicio>
+    <Fin>1535</Fin>
+    <Nombre>Sebastian Ramirez de Fuenleal</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Gobernante de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1535</Inicio>
+    <Fin>1550</Fin>
+    <Nombre>Antonio de Mendoza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1550</Inicio>
+    <Fin>1564</Fin>
+    <Nombre>Luis de Velasco y Ruiz de Alarcón</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1556</Inicio>
+    <Fin>1598</Fin>
+    <Nombre>Felipe II</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1564</Inicio>
+    <Fin>1566</Fin>
+    <Nombre>Audiencia de México</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1566</Inicio>
+    <Fin>1568</Fin>
+    <Nombre>Gastón de Peralta</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1568</Inicio>
+    <Fin>1580</Fin>
+    <Nombre>Martín Enríquez de Almansa</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1580</Inicio>
+    <Fin>1583</Fin>
+    <Nombre>Lorenzo Suárez de Mendoza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1584</Inicio>
+    <Fin>1585</Fin>
+    <Nombre>Pedro Moya de Contreras</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1585</Inicio>
+    <Fin>1590</Fin>
+    <Nombre>Álvaro Manrique de Zúñiga</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1590</Inicio>
+    <Fin>1595</Fin>
+    <Nombre>Luis de Velasco y Castilla</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1595</Inicio>
+    <Fin>1603</Fin>
+    <Nombre>Gaspar de Zúñiga y Acevedo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1598</Inicio>
+    <Fin>1621</Fin>
+    <Nombre>Felipe III</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1603</Inicio>
+    <Fin>1607</Fin>
+    <Nombre>Juan de Mendoza y Luna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1607</Inicio>
+    <Fin>1611</Fin>
+    <Nombre>Luis de Velasco y Castilla</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1611</Inicio>
+    <Fin>1615</Fin>
+    <Nombre>Fray García Guerra</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1612</Inicio>
+    <Fin>1621</Fin>
+    <Nombre>Diego Fernández de Córdoba</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1621</Inicio>
+    <Fin>1665</Fin>
+    <Nombre>Felipe IV</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1621</Inicio>
+    <Fin>1624</Fin>
+    <Nombre>Diego Carrillo de Mendoza y Pimentel</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1624</Inicio>
+    <Fin>1635</Fin>
+    <Nombre>Rodrigo Pacheco y Osorio</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1635</Inicio>
+    <Fin>1640</Fin>
+    <Nombre>Lope Díaz de Armendáriz,</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1640</Inicio>
+    <Fin>1642</Fin>
+    <Nombre>Diego López de Pacheco</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1642</Inicio>
+    <Fin>1642</Fin>
+    <Nombre>Juan Palafox y Mendoza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1642</Inicio>
+    <Fin>1648</Fin>
+    <Nombre>García Sarmiento de Sotomayor</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1648</Inicio>
+    <Fin>1649</Fin>
+    <Nombre>Marcos de Torres y Rueda</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1650</Inicio>
+    <Fin>1653</Fin>
+    <Nombre>Luis Enríquez de Guzmán</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1653</Inicio>
+    <Fin>1660</Fin>
+    <Nombre>Francisco Fernández de la Cueva</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1660</Inicio>
+    <Fin>1664</Fin>
+    <Nombre>Juan Francisco Leiva y de la Cerda</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1664</Inicio>
+    <Fin>1664</Fin>
+    <Nombre>Diego Osorio de Escobar</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1665</Inicio>
+    <Fin>1700</Fin>
+    <Nombre>Carlos II</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1664</Inicio>
+    <Fin>1673</Fin>
+    <Nombre>Antonio Sebastián Álvarez de Toledo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1673</Inicio>
+    <Fin>1673</Fin>
+    <Nombre>Pedro Nuño Colón de Portugal</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1673</Inicio>
+    <Fin>1680</Fin>
+    <Nombre>Payo Enríquez de Rivera</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1680</Inicio>
+    <Fin>1686</Fin>
+    <Nombre>Tomás Antonio de la Cerda y Aragón</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1686</Inicio>
+    <Fin>1688</Fin>
+    <Nombre>Melchor Portocarrero Lasso de Vega</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1688</Inicio>
+    <Fin>1696</Fin>
+    <Nombre>Gaspar de la Cerda y Sandoval</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1696</Inicio>
+    <Fin>1696</Fin>
+    <Nombre>Juan Ortega Montañés</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1697</Inicio>
+    <Fin>1701</Fin>
+    <Nombre>José Sarmiento y Valladares</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1700</Inicio>
+    <Fin>1724</Fin>
+    <Nombre>Felipe V</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1701</Inicio>
+    <Fin>1702</Fin>
+    <Nombre>Juan Ortega Montañés</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1702</Inicio>
+    <Fin>1711</Fin>
+    <Nombre>Francisco Fernández de la Cueva</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1711</Inicio>
+    <Fin>1716</Fin>
+    <Nombre>Fernando de Alencastre Noroña y Silva</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1716</Inicio>
+    <Fin>1722</Fin>
+    <Nombre>Baltasar de Zúñiga y Guzmán</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1722</Inicio>
+    <Fin>1734</Fin>
+    <Nombre>Juan de Acuña</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1724</Inicio>
+    <Fin>1724</Fin>
+    <Nombre>Luis I</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1724</Inicio>
+    <Fin>1746</Fin>
+    <Nombre>Felipe V</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1734</Inicio>
+    <Fin>1740</Fin>
+    <Nombre>Juan Antonio Vizarrón</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1740</Inicio>
+    <Fin>1741</Fin>
+    <Nombre>Pedro de Castro y Figueroa</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1742</Inicio>
+    <Fin>1746</Fin>
+    <Nombre>Pedro Cebrián y Agustín</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1746</Inicio>
+    <Fin>1759</Fin>
+    <Nombre>Fernando VI</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1746</Inicio>
+    <Fin>1755</Fin>
+    <Nombre>Juan Francisco de Güemes</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1755</Inicio>
+    <Fin>1760</Fin>
+    <Nombre>Agustín de Ahumada</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1759</Inicio>
+    <Fin>1788</Fin>
+    <Nombre>Carlos III</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1760</Inicio>
+    <Fin>1760</Fin>
+    <Nombre>Francisco Antonio Cagigal de la Vega</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1760</Inicio>
+    <Fin>1766</Fin>
+    <Nombre>Joaquín Montserrat</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1766</Inicio>
+    <Fin>1771</Fin>
+    <Nombre>Carlos Francisco de Croix</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1771</Inicio>
+    <Fin>1779</Fin>
+    <Nombre>Antonio María Bucareli y Ursúa</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1779</Inicio>
+    <Fin>1783</Fin>
+    <Nombre>Martín de Mayorga</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1783</Inicio>
+    <Fin>1784</Fin>
+    <Nombre>Matías de Gálvez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1784</Inicio>
+    <Fin>1786</Fin>
+    <Nombre>Bernardo de Gálvez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1787</Inicio>
+    <Fin>1787</Fin>
+    <Nombre>Alonso Núñez de Haro</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1787</Inicio>
+    <Fin>1789</Fin>
+    <Nombre>Manuel Antonio Flórez y Angulo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1788</Inicio>
+    <Fin>1808</Fin>
+    <Nombre>Carlos IV</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1789</Inicio>
+    <Fin>1794</Fin>
+    <Nombre>Juan Vicente de Güemes</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1794</Inicio>
+    <Fin>1798</Fin>
+    <Nombre>Miguel Grúa Talamanca y Branciforte</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1798</Inicio>
+    <Fin>1800</Fin>
+    <Nombre>Miguel José de Azanza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1800</Inicio>
+    <Fin>1803</Fin>
+    <Nombre>Félix Berenguer de Marquina</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1803</Inicio>
+    <Fin>1808</Fin>
+    <Nombre>José de Iturrigaray</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1808</Inicio>
+    <Fin>1821</Fin>
+    <Nombre>Fernando VII</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Rey de España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1808</Inicio>
+    <Fin>1809</Fin>
+    <Nombre>Pedro Garibay</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1809</Inicio>
+    <Fin>1810</Fin>
+    <Nombre>Francisco Javier de Lizana y Beaumont</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>México Colonial</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1810</Inicio>
+    <Fin>1813</Fin>
+    <Nombre>Francisco Javier Venegas</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>Guerra de Independencia</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1813</Inicio>
+    <Fin>1816</Fin>
+    <Nombre>Félix María Calleja del Rey</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>Guerra de Independencia</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1816</Inicio>
+    <Fin>1821</Fin>
+    <Nombre>Juan Ruiz de Apodaca</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>Guerra de Independencia</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1821</Inicio>
+    <Fin>1821</Fin>
+    <Nombre>Juan O'Donojú</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Virrey de la Nueva España</Titulo>
+    <PeriodoHistorico>Guerra de Independencia</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1821</Inicio>
+    <Fin>1823</Fin>
+    <Nombre>Agustín de Iturbide</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Emperador de Mexico</Titulo>
+    <PeriodoHistorico>Primer Imperio Mexicano</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1823</Inicio>
+    <Fin>1824</Fin>
+    <Nombre>Pedro Celestino Negrete</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1824</Inicio>
+    <Fin>1829</Fin>
+    <Nombre>Guadalupe Victoria</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1829</Inicio>
+    <Fin>1829</Fin>
+    <Nombre>Vicente Guerrero</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1829</Inicio>
+    <Fin>1829</Fin>
+    <Nombre>José María Bocanegra</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1829</Inicio>
+    <Fin>1829</Fin>
+    <Nombre>Pedro Vélez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1830</Inicio>
+    <Fin>1832</Fin>
+    <Nombre>Anastasio Bustamante</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1832</Inicio>
+    <Fin>1832</Fin>
+    <Nombre>Melchor Múzquiz</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1832</Inicio>
+    <Fin>1833</Fin>
+    <Nombre>Manuel Gómez Pedraza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1833</Inicio>
+    <Fin>1833</Fin>
+    <Nombre>Valentín Gómez Farías</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1833</Inicio>
+    <Fin>1835</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1835</Inicio>
+    <Fin>1836</Fin>
+    <Nombre>Miguel Barragán</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Separacion de Texas</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1836</Inicio>
+    <Fin>1837</Fin>
+    <Nombre>José Justo Corro</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1837</Inicio>
+    <Fin>1839</Fin>
+    <Nombre>Anastasio Bustamante</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Primera Intervencion Francesa</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1839</Inicio>
+    <Fin>1839</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1839</Inicio>
+    <Fin>1839</Fin>
+    <Nombre>Nicolás Bravo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1839</Inicio>
+    <Fin>1841</Fin>
+    <Nombre>Anastasio Bustamante</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1841</Inicio>
+    <Fin>1841</Fin>
+    <Nombre>Francisco Javier Echeverría</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1841</Inicio>
+    <Fin>1842</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1842</Inicio>
+    <Fin>1843</Fin>
+    <Nombre>Nicolás Bravo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1843</Inicio>
+    <Fin>1843</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1843</Inicio>
+    <Fin>1844</Fin>
+    <Nombre>Valentín Canalizo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1844</Inicio>
+    <Fin>1844</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1844</Inicio>
+    <Fin>1844</Fin>
+    <Nombre>José Joaquín de Herrera</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1844</Inicio>
+    <Fin>1844</Fin>
+    <Nombre>Valentín Canalizo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Central)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1844</Inicio>
+    <Fin>1846</Fin>
+    <Nombre>José Joaquín de Herrera</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Anexion de Texas a Estados Unidos de Norteamerica</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1846</Inicio>
+    <Fin>1846</Fin>
+    <Nombre>Mariano Paredes y Arrillaga</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1846</Inicio>
+    <Fin>1846</Fin>
+    <Nombre>Nicolás Bravo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1846</Inicio>
+    <Fin>1846</Fin>
+    <Nombre>Mariano Salas</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1846</Inicio>
+    <Fin>1847</Fin>
+    <Nombre>Valentín Gómez Farías</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1847</Inicio>
+    <Fin>1847</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1847</Inicio>
+    <Fin>1847</Fin>
+    <Nombre>Pedro María Anaya</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1847</Inicio>
+    <Fin>1848</Fin>
+    <Nombre>Manuel de la Peña y Peña</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Intervencion Norteamericana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1848</Inicio>
+    <Fin>1851</Fin>
+    <Nombre>José Joaquín de Herrera</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1851</Inicio>
+    <Fin>1853</Fin>
+    <Nombre>Mariano Arista</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1853</Inicio>
+    <Fin>1853</Fin>
+    <Nombre>Juan Bautista Ceballos</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1853</Inicio>
+    <Fin>1853</Fin>
+    <Nombre>Manuel María Lombardini</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Independiente (Republica Federal)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1853</Inicio>
+    <Fin>1855</Fin>
+    <Nombre>Antonio López de Santa Anna</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion de Ayutla</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1855</Inicio>
+    <Fin>1855</Fin>
+    <Nombre>Martín Carrera</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion de Ayutla</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1855</Inicio>
+    <Fin>1855</Fin>
+    <Nombre>Rómulo Díaz de la Vega</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion de Ayutla</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1855</Inicio>
+    <Fin>1855</Fin>
+    <Nombre>Juan Álvarez Benítez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion de Ayutla</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1855</Inicio>
+    <Fin>1857</Fin>
+    <Nombre>Ignacio Comonfort</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion de Ayutla</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1858</Inicio>
+    <Fin>1858</Fin>
+    <Nombre>Félix María Zuloaga</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Conservador)</Titulo>
+    <PeriodoHistorico>Guerra de Reforma</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1858</Inicio>
+    <Fin>1861</Fin>
+    <Nombre>Benito Juárez García</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Liberal)</Titulo>
+    <PeriodoHistorico>Guerra de Reforma</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1858</Inicio>
+    <Fin>1859</Fin>
+    <Nombre>Manuel Robles Pezuela</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Conservador)</Titulo>
+    <PeriodoHistorico>Guerra de Reforma</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1859</Inicio>
+    <Fin>1860</Fin>
+    <Nombre>Miguel Miramón</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Conservador)</Titulo>
+    <PeriodoHistorico>Guerra de Reforma</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1860</Inicio>
+    <Fin>1861</Fin>
+    <Nombre>Jose Ignacio Pavon</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Conservador)</Titulo>
+    <PeriodoHistorico>Guerra de Reforma</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1861</Inicio>
+    <Fin>1864</Fin>
+    <Nombre>Benito Juárez García</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Liberal)</Titulo>
+    <PeriodoHistorico>Segunda Intervencion Francesa</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1863</Inicio>
+    <Fin>1864</Fin>
+    <Nombre>Junta de Regencia</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Conservador)</Titulo>
+    <PeriodoHistorico>Segunda Intervencion Francesa</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1864</Inicio>
+    <Fin>1867</Fin>
+    <Nombre>Benito Juárez García</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Liberal)</Titulo>
+    <PeriodoHistorico>Segunda Intervencion Francesa</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1864</Inicio>
+    <Fin>1867</Fin>
+    <Nombre>Fernando Maximiliano de Habsburgo</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Emperador de Mexico</Titulo>
+    <PeriodoHistorico>Segundo Imperio Mexicano</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1867</Inicio>
+    <Fin>1872</Fin>
+    <Nombre>Benito Juárez García</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico (Liberal)</Titulo>
+    <PeriodoHistorico>Restauracion de la Republica</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1872</Inicio>
+    <Fin>1876</Fin>
+    <Nombre>Sebastián Lerdo de Tejada</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Restauracion de la Republica</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1876</Inicio>
+    <Fin>1877</Fin>
+    <Nombre>José María Iglesias</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Restauracion de la Republica</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1876</Inicio>
+    <Fin>1877</Fin>
+    <Nombre>Juan Nepomuseno Méndez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Restauracion de la Republica</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1876</Inicio>
+    <Fin>1880</Fin>
+    <Nombre>Porfirio Díaz</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Porfiriato</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1880</Inicio>
+    <Fin>1884</Fin>
+    <Nombre>Manuel González</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Porfiriato</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1884</Inicio>
+    <Fin>1911</Fin>
+    <Nombre>Porfirio Díaz</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Porfiriato</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1911</Inicio>
+    <Fin>1911</Fin>
+    <Nombre>Francisco León de la Barra</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1911</Inicio>
+    <Fin>1913</Fin>
+    <Nombre>Francisco I. Madero</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1913</Inicio>
+    <Fin>1913</Fin>
+    <Nombre>Pedro Lascuráin Paredes</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1913</Inicio>
+    <Fin>1914</Fin>
+    <Nombre>Victoriano Huerta Ortega</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1914</Inicio>
+    <Fin>1914</Fin>
+    <Nombre>Francisco S. Carvajal</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1914</Inicio>
+    <Fin>1920</Fin>
+    <Nombre>Venustiano Carranza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1914</Inicio>
+    <Fin>1915</Fin>
+    <Nombre>Eulalio Gutiérrez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1915</Inicio>
+    <Fin>1915</Fin>
+    <Nombre>Roque González Garza</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1915</Inicio>
+    <Fin>1920</Fin>
+    <Nombre>Francisco Lagos Cházaro</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Revolucion Mexicana</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1920</Inicio>
+    <Fin>1920</Fin>
+    <Nombre>Adolfo de la Huerta</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1920</Inicio>
+    <Fin>1924</Fin>
+    <Nombre>Álvaro Obregón</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1924</Inicio>
+    <Fin>1928</Fin>
+    <Nombre>Plutarco Elías Calles</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1928</Inicio>
+    <Fin>1930</Fin>
+    <Nombre>Emilio Portes Gil</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1930</Inicio>
+    <Fin>1932</Fin>
+    <Nombre>Pascual Ortiz Rubio</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1932</Inicio>
+    <Fin>1934</Fin>
+    <Nombre>Abelardo L. Rodríguez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>México Post-Revolucionario</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1934</Inicio>
+    <Fin>1940</Fin>
+    <Nombre>Lázaro Cárdenas del Río</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Moderno)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1940</Inicio>
+    <Fin>1946</Fin>
+    <Nombre>Manuel Ávila Camacho</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Moderno)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1946</Inicio>
+    <Fin>1952</Fin>
+    <Nombre>Miguel Alemán Valdés</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1952</Inicio>
+    <Fin>1958</Fin>
+    <Nombre>Adolfo Ruíz Cortines</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1958</Inicio>
+    <Fin>1964</Fin>
+    <Nombre>Adolfo López Mateos</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1964</Inicio>
+    <Fin>1970</Fin>
+    <Nombre>Gustavo Díaz Ordaz</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1970</Inicio>
+    <Fin>1976</Fin>
+    <Nombre>Luis Echeverría Álvarez</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1976</Inicio>
+    <Fin>1982</Fin>
+    <Nombre>José López Portillo y Pacheco</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1982</Inicio>
+    <Fin>1988</Fin>
+    <Nombre>Miguel de la Madrid Hurtado</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1988</Inicio>
+    <Fin>1994</Fin>
+    <Nombre>Carlos Salinas de Gortari</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>1994</Inicio>
+    <Fin>2000</Fin>
+    <Nombre>Ernesto Zedillo Ponce de León</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>2000</Inicio>
+    <Fin>2006</Fin>
+    <Nombre>Vicente Fox Quesada</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>2006</Inicio>
+    <Fin>2012</Fin>
+    <Nombre>Felipe Calderon Hinojosa</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>2012</Inicio>
+    <Fin>2018</Fin>
+    <Nombre>Enrique Peña Nieto</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+  <Gobernante>
+    <Inicio>2018</Inicio>
+    <Fin>2024</Fin>
+    <Nombre>Andrés Manuel López Obrador</Nombre>
+    <Significado>No Aplica</Significado>
+    <Titulo>Presidente de Mexico</Titulo>
+    <PeriodoHistorico>Los Sexenios (México Contemporaneo)</PeriodoHistorico>
+  </Gobernante>
+</ArrayOfGobernante>

@@ -1,0 +1,10 @@
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\bin\Debug\PresidentesDeMexico.exe
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\bin\Debug\PresidentesDeMexico.pdb
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.Form1.resources
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.Properties.Resources.resources
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.csproj.GenerateResource.Cache
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.exe
+C:\Documents and Settings\OEM System\Escritorio\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.pdb
+D:\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.exe
+D:\PresidentesDeMexico\PresidentesDeMexico\obj\Debug\PresidentesDeMexico.pdb

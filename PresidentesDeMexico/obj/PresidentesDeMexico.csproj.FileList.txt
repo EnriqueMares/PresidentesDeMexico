@@ -1,0 +1,8 @@
+obj\Debug\PresidentesDeMexico.exe
+obj\Debug\PresidentesDeMexico.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PresidentesDeMexico.Form1.resources
+obj\Debug\PresidentesDeMexico.Properties.Resources.resources
+obj\Debug\PresidentesDeMexico.csproj.GenerateResource.Cache
+bin\Debug\PresidentesDeMexico.exe
+bin\Debug\PresidentesDeMexico.pdb
